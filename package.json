@@ -1,0 +1,27 @@
+{
+  "name": "curfi",
+  "version": "1.0.3",
+  "description": "curfi or Curve-Fitting is an Automated Curve Fitting library to train and test models with datasets without any prior knowledge of training models.",
+  "main": "curfi.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royayon/curfi.js.git"
+  },
+  "keywords": [
+    "automl",
+    "curve fitting",
+    "curfi",
+    "fitting",
+    "auto curve fitting",
+    "node"
+  ],
+  "author": "Ayon Roy (https://ayon.netlify.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/royayon/curfi.js/issues"
+  },
+  "homepage": "https://github.com/royayon/curfi.js#readme"
+}
